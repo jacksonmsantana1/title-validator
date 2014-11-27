@@ -1,0 +1,25 @@
+{
+  "name": "title-validator",
+  "version": "0.0.0",
+  "authors": [
+    "Jackson Martorano <jackson.m.santana1@gmail.com>"
+  ],
+  "description": "A group of validation functions for titles.",
+  "main": "main.js",
+  "keywords": [
+    "validation",
+    "title"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.1",
+    "moment": "~2.8.4"
+  }
+}
